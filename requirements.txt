@@ -20,4 +20,3 @@ pytest
 
 # packaging
 setuptools
-wheel
